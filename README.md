@@ -1,4 +1,4 @@
-# Customer-Segmentation-using-RFM-analysis
+# Online-Retail-Customer-Segmentation
 
 This project aims to understand the value derived from different customers segments. The dataset contains features like customerID, Quantity, Stockcode etc. of
 the individuals. Used clustering technique to identify customer behaviors. Provided valuable insights into the wider business based on the segments generated. RFM reduced the marketing costs due to optimize targeting.
